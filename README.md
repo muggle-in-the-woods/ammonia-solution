@@ -14,4 +14,4 @@ Since I know exact line equations that describe boiling temperature change, I us
 To find ΔT (temperature change), I simply picked any two neighbour points on a x axis of a plot with increment of 1%, for instance 30% and 31% 57% and 58%, 74% and 
 75%, 88% and 89%.
 
-  As a result, ammonia-water solution boiling temperature drop (approximately) gradually degreases from 2.2 °C to 0.4 °C whilst solution concentration increases by 1%.
+  As a result, ammonia-water solution boiling temperature drop (approximately) gradually decreases from 2.2 °C to 0.4 °C whilst solution concentration increases by 1%.
