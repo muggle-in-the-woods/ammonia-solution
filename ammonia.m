@@ -7,10 +7,10 @@
 of NH3 mass concentration;
 
     Record of revisions:
-            Date               Programmer                   Description of change
-       ========       ============               ===================
-        05/05/22          T. K. Koziupa                         Original code
-        07/05/22          T. K. Koziupa                         Second plot added
+            Date                Programmer                   Description of change
+          ========            =============                  =====================
+          05/05/22            T. K. Koziupa                      Original code
+          07/05/22            T. K. Koziupa                      Second plot
 added, trend line equations for certain mass percantage-boiling temperature regions added
 
     Define variables:
