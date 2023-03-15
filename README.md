@@ -1,7 +1,9 @@
+# Ammonia-water solution 
+ 
   In this project I:
-  - built a Mass percentage vs. Temperature calibrating plot with data provided;
-  - found analytically boiling point temperature for 15%, 25% and 50% NH3 mass concentration;
-  - found boiling temperature change with respect to NH3 mass percentage change by 1%. 
+    i. built a Mass percentage vs. Temperature calibrating plot with data provided;
+    ii. found analytically boiling point temperature for 15%, 25% and 50% NH3 mass concentration;
+    iii. found boiling temperature change with respect to NH3 mass percentage change by 1%. 
   Knowing two ‘critical’ boiling temperature points, that corresponds to 0% and 100% of NH3 concentration, I predicted what overall shape
 function dependence would have. Then, using the equation that describes that shape, I built a trend line and found points of interest on it.
 
