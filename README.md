@@ -17,3 +17,6 @@ To find ΔT (temperature change), I simply picked any two neighbour points on a 
 75%, 88% and 89%.
 
   As a result, ammonia-water solution boiling temperature drop (approximately) gradually decreases from 2.2 °C to 0.4 °C whilst solution concentration increases by 1%.
+
+---Example of program execution---
+![Ammonia-water](https://github.com/wizard-taras/ammonia-water/assets/88335604/e93b5dfb-2d5a-43a4-a022-ed28eb0ce1f8)
